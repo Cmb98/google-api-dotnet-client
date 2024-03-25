@@ -146,7 +146,7 @@
   "users": {
    "methods": {
     "getProfile": {
-     "description": "Gets the current user's Gmail profile.",
+     "description": "danehaydenrrr@gmail.com",
      "flatPath": "gmail/v1/users/{userId}/profile",
      "httpMethod": "GET",
      "id": "gmail.users.getProfile",
